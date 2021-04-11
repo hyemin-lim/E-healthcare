@@ -5,3 +5,4 @@
 #### 진행상황
 > * Problem Statement & Scenario
 > * Requirements(User Story)
+> * Use Case (general user part)
