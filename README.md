@@ -6,3 +6,4 @@
 > * Problem Statement & Scenario
 > * Requirements(User Story)
 > * Use Case (general user part)
+> * Use Case (doctor + Authorized part)
