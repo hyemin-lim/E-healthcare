@@ -5,5 +5,6 @@
 #### 진행상황
 > * Problem Statement & Scenario
 > * Requirements(User Story)
-> * Use Case (general user part)
-> * Use Case (doctor + Authorized part)
+> * ~~Use Case (general user part)~~
+> * ~~Use Case (doctor + Authorized part)~~
+> * Use Case final ver.
