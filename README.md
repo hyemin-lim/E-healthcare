@@ -8,5 +8,6 @@
 > * ~~Use Case (general user part)~~
 > * ~~Use Case (doctor + Authorized part)~~
 > * Use Case final ver.
-> * Domain model (General User part)
-> * Domain model (Doctor + Authorized user part)
+> * ~~Domain model (General User part)
+> * Domain model (Doctor + Authorized user part)~~
+> * Domain model final ver.
