@@ -11,3 +11,8 @@
 > * ~~Domain model (General User part)~~
 > * ~~Domain model (Doctor + Authorized user part)~~
 > * Domain model final ver.
+> * Object Sequence Model
+> > * uc-1 로그인
+> > * uc-5 상담
+> > * uc-8 분야선택
+> > * uc-11 
