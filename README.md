@@ -16,3 +16,5 @@
 > > * uc-5 상담
 > > * uc-8 분야선택
 > > * uc-11 의사선택
+> * Class Diagram
+> * Final Implementation
