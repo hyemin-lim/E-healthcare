@@ -19,4 +19,4 @@
 > * Class Diagram
 > * Final Implementation
 
->* Test Case 추가
+>* Test Case 추가 (Final Implementation에 추가)
